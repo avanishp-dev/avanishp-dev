@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 # 💫 About Me:
 💻 B.Tech CSE student @ Siksha ‘O’ Anusandhan<br>🚀 Exploring Full-Stack Development & AI/ML<br>⚡ Turning ideas into scalable web apps<br>🧠 Strong focus on logic & problem-solving<br>🎯 Building skills that are future-ready<br>🔥 Consistency > Motivation<br>🤝 Open to collaboration & innovation<br>
 
